@@ -16,6 +16,4 @@
 *   3.Password root(if you are a mac user use root as a password).
 *   4.db name(Database Name)
 
-#### If you Have any further query please mail me- mccyber007@gmail.com
-
-All rights researved BY [MOHAMMAD ABDUS SALAM](http://portfolio.codeexposer.com/)
+#### If you Have any further query please mail me-khadijajawaid742@gmail.com
